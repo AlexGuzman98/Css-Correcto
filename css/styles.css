@@ -26,7 +26,8 @@
     border-radius: 5px;
     background-image: linear-gradient(#42455a, #42455a), radial-gradient(circle at top left, #fd00da, #19d7f8);
     background-origin: border-box;
-    background-clip: content-box,border-box; }
+    background-clip: content-box,border-box; 
+}
 
 .login span {
     display: block;
@@ -79,23 +80,23 @@
 
 #nav_ul {
     display: inline-flex;
-    margin: 50px; }
+    margin: 50px; 
+}
 #nav_ul li {
     list-style: none;
     margin: 0 20px;
-    cursor: pointer; }
+    cursor: pointer; 
+}
 #nav_ul a {
     text-decoration: none;
-    color: #fff; }
-
-
+    color: #fff; 
+}
 
 #footer {
     left: 0;
     bottom: 0;
     position: absolute; 
 }
-
 
 #footer_white {
     display: inline-flex;
